@@ -1,0 +1,15 @@
+* {
+  font-family: "IRANSansXFaNum";
+}
+
+body {
+  direction: rtl;
+}
+
+ol {
+  font-size: 24px;
+}
+
+ol li span {
+  margin-left: 15px;
+}
